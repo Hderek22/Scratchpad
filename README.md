@@ -2,6 +2,29 @@
 
 A place to brainstorm
 
+This is a safe place to brainstorm. dump your thoughts here!
+
+
+_______________________
+
+
+
+Write whatever you like. Edit your heart out!
+
+
+
+
+
+_________________________
+
+
+
+
+
+
+
+
+
 ##  brainstorming
 ### /ˈbrānstôrmiNG/
 
