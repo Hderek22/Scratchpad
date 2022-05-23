@@ -25,8 +25,8 @@ _________________________
 
 
 
-##  brainstorming
-### /ˈbrānstôrmiNG/
+#  brainstorming
+## /ˈbrānstôrmiNG/
 
 _noun_
 
