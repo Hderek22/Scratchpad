@@ -42,6 +42,6 @@ __Before 1913 it was possible to mail your kids to your grandparents__:mailbox:
 
 __The average person gets interrupted every eight minutes__:angry:
 
-__THe total weight of all the ants on Earth is more than the total weight of every human on the planet__:ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant:
+__The total weight of all the ants on Earth is more than the total weight of every human on the planet__:ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant::ant:
 
 
