@@ -48,7 +48,7 @@ __It is impossible to hum while you hold your nose :nose:__
 
 --------------------------------
 \
-_scroll down please_ \
+_scroll down_ \
 \
 \
 \
