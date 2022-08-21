@@ -1,6 +1,6 @@
 # Scratchpad
 
-A place to brainstorm:smile:
+A place to brainstorm and practice mardown :smile:
 
 This is a safe place to brainstorm. dump your thoughts here! :thought_balloon:
 
@@ -17,9 +17,11 @@ Write whatever you like. Edit your :heart:out!
 :dog:
 :cat:
 :giraffe:
-:platypus:
 🥖
 🧟
+:horse:
+
+;toaster:
 
 
 
