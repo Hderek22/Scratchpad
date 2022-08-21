@@ -11,6 +11,14 @@ _______________________
 
 Write whatever you like. Edit your :heart:out!
 
+## Emoji fun
+
+:hammer:
+:dog:
+:cat:
+:giraffe:
+:platypus:
+
 
 
 
