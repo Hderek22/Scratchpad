@@ -21,7 +21,11 @@ Write whatever you like. Edit your :heart:out!
 🧟
 :horse:
 
-;toaster:
+:bread:
+
+:turkey:
+:tophat:
+
 
 
 
