@@ -25,9 +25,13 @@ Write whatever you like. Edit your :heart:out!
 
 :turkey:
 :tophat:
+:coin:
 
+🍸
 
+:coin:
 
+:emoji:
 
 
 _________________________
