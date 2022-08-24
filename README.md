@@ -20,19 +20,14 @@ Write whatever you like. Edit your :heart:out!
 🥖
 🧟
 :horse:
-
 :bread:
-
 :turkey:
 :tophat:
-:coin:
-
 🍸
-
-:coin:
-
-:emoji:
 :peacock:
+🐒
+🐵
+💑
 
 
 
