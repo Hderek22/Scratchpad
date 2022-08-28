@@ -124,4 +124,9 @@ Dreamt is the only english word that ends with 'MT'
 *Italicize*<br>
 **Bold**
 
-
+*Emphasis* <em>Emphasis</em>
+_Emphasis_ <em>Emphasis</em>
+**Strong** <strong>Strong</strong>
+__Strong__ <strong>Strong</strong>
+*Super*emphasis <em>Super</em>emphasis
+**Super**strong <strong>Super</strong>strong
