@@ -119,4 +119,9 @@ Girls have more tastebuds than boys. :thinking:
 Dreamt is the only english word that ends with 'MT'
 
 
+### Markdown cheatsheet
+
+*Italicize*<br>
+**Bold**
+
 
