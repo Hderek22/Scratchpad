@@ -115,7 +115,7 @@ _scroll down_ \
 \
 \
 \
-__(10 Doge says you just tried holding your nose and humming):joy:__
+__(10 Doge says you just tried holding your nose and humming):joy: :joy: :joy:__
 
 
 
