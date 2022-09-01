@@ -29,6 +29,11 @@ Write whatever you like. Edit your :heart:out!
 🐵
 💑
 🎱
+:baseball:
+:foot:
+:hand:
+:shoe:
+:skull:
 
 
 _________________________
