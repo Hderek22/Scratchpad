@@ -41,6 +41,8 @@ Write whatever you like. Edit your :heart:out!
 :hand:
 :shoe:
 :skull:
+:earth_africa:
+
 
 
 _________________________
