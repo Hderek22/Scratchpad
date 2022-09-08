@@ -2,7 +2,7 @@
 
 ## Edit and send me an merge request. It's great for learning Github basics! 
 
-### All NSFW content is strictly prohibited!
+### NSFW content is strictly prohibited!
 
 
 -----------------------
