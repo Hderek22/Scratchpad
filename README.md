@@ -43,7 +43,7 @@ Write whatever you like. Edit your :heart:out!
 :skull:
 :earth_africa:
 
-# 🍨 🍕 🌭 :hamburger:
+# 🍨 🍕 🌭 :hamburger: :taco: :candy: :cloud:
 
 
 
