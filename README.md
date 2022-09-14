@@ -1,6 +1,6 @@
 # Scratchpad - (Feel free to edit!) I built this when learning Github and don't mind if you use it for practice.
 
-## Edit and send me an merge request. It's great for learning Github basics! 
+## Edit and open merge request. Get live action Github practive here! 
 
 ### NSFW content is strictly prohibited!
 
