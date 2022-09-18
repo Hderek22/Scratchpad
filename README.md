@@ -42,8 +42,8 @@ Write whatever you like. Edit your :heart:out!
 :shoe:
 :skull:
 :earth_africa:
-
-# 🍨 🍕 🌭 :hamburger: :taco: :candy: :cloud: :rainbow: :dog: :bat:
+:coffee:
+# 🍨 🍕 🌭 :hamburger: :taco: :candy: :cloud: :rainbow: :dog: :bat: 🍄
 
 
 
