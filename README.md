@@ -40,10 +40,10 @@ Write whatever you like. Edit your :heart:out!
 :foot:
 :hand:
 :shoe:
-:skull:
+:skull::
 :earth_africa:
 :coffee:
-# 🍨 🍕 🌭 :hamburger: :taco: :candy: :cloud: :rainbow: :dog: :bat: 🍄 🌎 🗽 :boy: :girl:
+# 🍨 🍕 🌭 :hamburger: :taco: :candy: :cloud: :rainbow: :dog: :bat: 🍄 🌎 🗽 :boy: :girl: :man: 🦎
 
 
 
