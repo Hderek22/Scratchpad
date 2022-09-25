@@ -43,7 +43,8 @@ Write whatever you like. Edit your :heart:out!
 :skull::
 :earth_africa:
 :coffee:
-# 🍨 🍕 🌭 :hamburger: :taco: :candy: :cloud: :rainbow: :dog: :bat: 🍄 🌎 🗽 :boy: :girl: :man: 🦎
+# 🍨 🍕 🌭 :hamburger: :taco: :candy: :cloud: :rainbow: :dog: :bat: 🍄 🌎 🗽 :boy: :girl: :man: 🦎 :zombie:
+
 
 
 
