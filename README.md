@@ -136,6 +136,9 @@ Girls have more tastebuds than boys. :thinking:
 
 Dreamt is the only english word that ends with 'MT'
 
+Due ti iut lack of precipitation, Antarctica is technically a desert.
+
+
 
 ### Markdown cheatsheet
 
