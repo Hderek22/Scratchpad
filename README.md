@@ -1,4 +1,4 @@
-# Scratchpad - (Feel free to edit!) I built this when learning Github and don't mind if you use it for practice.
+# Scratchpad - I built this when learning Github and don't mind if you use it for practice.
 
 ## Edit and open merge request. Get live action Github practice here! 
 
