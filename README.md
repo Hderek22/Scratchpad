@@ -47,7 +47,7 @@ Write whatever you like. Edit your :heart:out!
 
 # :umbrella: 🚼 :infinity: :moon: 🌙 🌓 🌗 🌑 🌘 😎 :zebra: 
 
-:ring: :carrot: :spider: :cloud: :truck: :candy:
+# :ring: :carrot: :spider: :cloud: :truck: :candy:
 
 
 
