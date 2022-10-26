@@ -62,6 +62,8 @@ Write whatever you like. Edit your :heart:out!
 
 # 🏴‍☠️
 
+# :flag: :ladder: :chute:
+
 
 
 
@@ -157,6 +159,8 @@ Due ti iut lack of precipitation, Antarctica is technically a desert.
 Hot water freezes faster than cold water.
 
   This is due to the [Mpemba effect.](https://phys.org/news/2010-03-mpemba-effect-hot-faster-cold.html)
+  
+ 
 
 
 ### Markdown cheatsheet
@@ -170,3 +174,6 @@ _Emphasis_ <em>Emphasis</em>
 __Strong__ <strong>Strong</strong>
 *Super*emphasis <em>Super</em>emphasis
 **Super**strong <strong>Super</strong>strong
+
+
+$test$
