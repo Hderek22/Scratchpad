@@ -62,7 +62,8 @@ Write whatever you like. Edit your :heart:out!
 
 # 🏴‍☠️
 
-# :flag: :ladder: :chute: :slide: :ocean: :earth: :wind: :fire:
+# :flag: :ladder: :chute: :slide: :ocean: :earth: :wind: :fire: :usaflag: :china: :usa:
+## :emoji:
 
 
 
