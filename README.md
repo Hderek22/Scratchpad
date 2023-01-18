@@ -161,6 +161,8 @@ Hot water freezes faster than cold water.
 
   This is due to the [Mpemba effect.](https://phys.org/news/2010-03-mpemba-effect-hot-faster-cold.html)
   
+Honeybees can recognize human faces :honeybee: :bee: :smile:
+  
  
 
 
