@@ -1,8 +1,6 @@
 
 ## Edit and open merge request. Get live action Github practice here! 
 
-### NSFW content is strictly prohibited!
-
 
 -----------------------
 
