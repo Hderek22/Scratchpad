@@ -13,7 +13,7 @@ _______________________
 
 
 
-Write whatever you like. Edit your :heart:out!
+Edit your :heart:out!
 
 ## Emoji fun
 
