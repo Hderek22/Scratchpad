@@ -59,8 +59,6 @@ Edit your :heart: out!
 
 # 🏴‍☠️
 
-# :flag: :ladder: :chute: :slide: :ocean: :earth: :wind: :fire: :china: :usa:
-## :emoji:
 
 
 
