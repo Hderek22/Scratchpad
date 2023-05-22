@@ -4,11 +4,6 @@
 
 -----------------------
 
-A place to brainstorm! :smile:
-
-This is a safe place to brainstorm. dump your thoughts here! :thought_balloon:
-
-
 _______________________
 
 
