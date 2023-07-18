@@ -1,5 +1,5 @@
 
-## Edit and open merge request. Get live action Github practice here! 
+## Edit and open merge request. 
 
 
 -----------------------
