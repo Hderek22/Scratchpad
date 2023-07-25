@@ -7,7 +7,7 @@ _______________________
 
 
 
-Edit your :heart: out!
+
 
 ## Emoji fun
 
