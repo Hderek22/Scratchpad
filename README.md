@@ -34,7 +34,7 @@ _______________________
 :skull::
 :earth_africa:
 :coffee:
-# 🍨 🍕 🌭 :hamburger: :taco: :candy: :cloud: :rainbow: :dog: :bat: 🍄 🌎 🗽 :boy: :girl: :man: 🦎 :zombie: :thinking:
+# 🍨 🍕 🌭 :hamburger: :taco: :candy: :cloud: :rainbow: :dog: :bat: 🍄 🌎 🗽 :boy: :girl: :man: 🦎 :zombie: 
 
 # :umbrella: 🚼 :infinity::moon: 🌙 🌓 🌗 🌑 🌘 😎 :zebra: :
 
