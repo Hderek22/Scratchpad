@@ -36,7 +36,7 @@ _______________________
 :coffee:
 # 🍨 🍕 🌭 :hamburger: :taco: :candy: :cloud: :rainbow: :dog: :bat: 🍄 🌎 🗽 :boy: :girl: :man: 🦎 :zombie: 
 
-# :umbrella: 🚼 :infinity::moon: 🌙 🌓 🌗 🌑 🌘 😎 :zebra: :
+# :umbrella: 🚼 :infinity::moon: 🌙 🌓 🌗 🌑 🌘 😎 :zebra: 
 
 # :ring: :carrot: :spider: :cloud: :truck: :candy:
 
