@@ -38,7 +38,7 @@ _______________________
 
 # :umbrella: 🚼 :infinity::moon: 🌙 🌓 🌗 🌑 🌘 😎 
 
-# :ring: :carrot: :spider: :cloud: :truck: :candy:
+# :ring: :carrot: :spider: :cloud: :truck:
 
 
 
