@@ -33,7 +33,6 @@ _______________________
 :shoe:
 :skull::
 :earth_africa:
-:coffee:
 # 🍨 🍕 🌭 :hamburger: :taco: :candy: :cloud: :rainbow: :dog: :bat: 🍄 🌎 🗽 :boy: :girl: :man: 🦎 
 
 # :umbrella: 🚼 :infinity::moon: 🌙 🌓 🌗 🌑 🌘 😎 
