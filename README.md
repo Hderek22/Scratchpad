@@ -43,6 +43,7 @@ _______________________
 
 
 
+
 # 🌍 🌎 🌏
 
 
@@ -74,7 +75,8 @@ group discussion to produce ideas or solve problems.:thinking:
 
 ### Fun facts!
 
-__Before 1913 it was possible to mail your kids to your grandparents__:mailbox:
+__Before 1913 it was possible to mail your kids to your grandparents__:mailbox::suitcase:
+
 
 __The average person gets interrupted every eight minutes__:angry:
 
