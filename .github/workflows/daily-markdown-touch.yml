@@ -25,7 +25,22 @@ jobs:
           text = path.read_text(encoding='utf-8')
 
           today = datetime.now(timezone.utc).strftime('%Y-%m-%d')
-          marker = f'- Daily markdown touch on {today} 🌱'
+          facts = [
+              'Plants can communicate through underground fungal networks, often called the “wood wide web.”',
+              'Some trees can share nutrients and warn each other about pests through root systems and fungi.',
+              'Coral reefs are home to about 25% of all marine life despite covering less than 1% of the ocean floor.',
+              'A single mature tree can absorb around 22 kilograms of carbon dioxide each year.',
+              'The Amazon rainforest produces about 20% of the world’s oxygen.',
+              'Mushrooms are actually more closely related to animals than to plants.',
+              'Bees can recognize human faces and remember patterns.',
+              'The moonlight we see is reflected sunlight, not light produced by the moon itself.'
+          ]
+          geometry_symbols = ['⊙', '◇', '⊿', '✶', '☸', '⟡', '⌔', '◌']
+
+          index = datetime.now(timezone.utc).timetuple().tm_yday % len(facts)
+          symbol = geometry_symbols[index % len(geometry_symbols)]
+          fact = facts[index]
+          marker = f'- {today} {symbol} Nature fact: {fact}'
 
           if marker in text:
               print('No new change needed today.')
