@@ -1,0 +1,56 @@
+name: Daily markdown touch
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Add a daily markdown update
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          from datetime import datetime, timezone
+
+          path = Path('README.md')
+          text = path.read_text(encoding='utf-8')
+
+          today = datetime.now(timezone.utc).strftime('%Y-%m-%d')
+          marker = f'- Daily markdown touch on {today} 🌱'
+
+          if marker in text:
+              print('No new change needed today.')
+              raise SystemExit(0)
+
+          if '## Daily markdown touches' not in text:
+              text = text.rstrip() + '\n\n## Daily markdown touches\n'
+          else:
+              text = text.rstrip() + '\n'
+
+          text = text + marker + '\n'
+          path.write_text(text, encoding='utf-8')
+          print(f'Added: {marker}')
+          PY
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+
+          if git diff --cached --quiet; then
+            echo 'No changes to commit.'
+            exit 0
+          fi
+
+          git commit -m "Daily markdown update"
+          git push
