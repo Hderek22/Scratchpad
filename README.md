@@ -172,3 +172,4 @@ $test$
 - 2026-08-04 ⊙ Nature fact: Plants can communicate through underground fungal networks, often called the “wood wide web.”
 - 2026-08-05 ◇ Nature fact: Some trees can share nutrients and warn each other about pests through root systems and fungi.
 - 2026-08-06 ⊿ Nature fact: Coral reefs are home to about 25% of all marine life despite covering less than 1% of the ocean floor.
+- 2026-08-07 ✶ Nature fact: A single mature tree can absorb around 22 kilograms of carbon dioxide each year.
