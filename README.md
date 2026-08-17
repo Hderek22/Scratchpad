@@ -182,3 +182,4 @@ $test$
 - 2026-08-14 ⊿ Nature fact: Coral reefs are home to about 25% of all marine life despite covering less than 1% of the ocean floor.
 - 2026-08-15 ✶ Nature fact: A single mature tree can absorb around 22 kilograms of carbon dioxide each year.
 - 2026-08-16 ☸ Nature fact: The Amazon rainforest produces about 20% of the world’s oxygen.
+- 2026-08-17 ⟡ Nature fact: Mushrooms are actually more closely related to animals than to plants.
