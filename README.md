@@ -197,3 +197,4 @@ $test$
 - 2026-08-29 ◇ Nature fact: Some trees can share nutrients and warn each other about pests through root systems and fungi.
 - 2026-08-30 ⊿ Nature fact: Coral reefs are home to about 25% of all marine life despite covering less than 1% of the ocean floor.
 - 2026-08-31 ✶ Nature fact: A single mature tree can absorb around 22 kilograms of carbon dioxide each year.
+- 2026-09-01 ☸ Nature fact: The Amazon rainforest produces about 20% of the world’s oxygen.
