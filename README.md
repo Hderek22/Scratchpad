@@ -201,3 +201,4 @@ $test$
 - 2026-09-02 ⟡ Nature fact: Mushrooms are actually more closely related to animals than to plants.
 - 2026-09-03 ⌔ Nature fact: Bees can recognize human faces and remember patterns.
 - 2026-09-04 ◌ Nature fact: The moonlight we see is reflected sunlight, not light produced by the moon itself.
+- 2026-09-05 ⊙ Nature fact: Plants can communicate through underground fungal networks, often called the “wood wide web.”
