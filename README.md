@@ -248,3 +248,4 @@ $test$
 - 2026-10-19 ☸ Nature fact: The Amazon rainforest produces about 20% of the world’s oxygen.
 - 2026-10-20 ⟡ Nature fact: Mushrooms are actually more closely related to animals than to plants.
 - 2026-10-21 ⌔ Nature fact: Bees can recognize human faces and remember patterns.
+- 2026-10-22 ◌ Nature fact: The moonlight we see is reflected sunlight, not light produced by the moon itself.
