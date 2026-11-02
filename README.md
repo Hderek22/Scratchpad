@@ -259,3 +259,4 @@ $test$
 - 2026-10-30 ◌ Nature fact: The moonlight we see is reflected sunlight, not light produced by the moon itself.
 - 2026-10-31 ⊙ Nature fact: Plants can communicate through underground fungal networks, often called the “wood wide web.”
 - 2026-11-01 ◇ Nature fact: Some trees can share nutrients and warn each other about pests through root systems and fungi.
+- 2026-11-02 ⊿ Nature fact: Coral reefs are home to about 25% of all marine life despite covering less than 1% of the ocean floor.
