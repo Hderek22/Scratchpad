@@ -282,3 +282,4 @@ $test$
 - 2026-11-22 ⌔ Nature fact: Bees can recognize human faces and remember patterns.
 - 2026-11-23 ◌ Nature fact: The moonlight we see is reflected sunlight, not light produced by the moon itself.
 - 2026-11-24 ⊙ Nature fact: Plants can communicate through underground fungal networks, often called the “wood wide web.”
+- 2026-11-25 ◇ Nature fact: Some trees can share nutrients and warn each other about pests through root systems and fungi.
